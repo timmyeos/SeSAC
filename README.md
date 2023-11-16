@@ -3,12 +3,13 @@
 
 공부한 내용
 - [SeSAC](#sesac)
-  - [데이터 전처리 - 고속도로 CCTV 교통 영상 파일](#데이터-전처리---고속도로-cctv-교통-영상-파일)
-  - [사람인 크롤링](#사람인-크롤링)
+  - [1. 데이터 전처리 - 고속도로 CCTV 교통 영상 파일](#1-데이터-전처리---고속도로-cctv-교통-영상-파일)
+  - [2. 사람인 크롤링](#2-사람인-크롤링)
+  - [3. 데이콘 서울시 따릉이 대여량 예측](#3-데이콘-서울시-따릉이-대여량-예측)
 
 <br>
 
-## [데이터 전처리 - 고속도로 CCTV 교통 영상 파일](https://github.com/timmyeos/SeSAC/tree/main/Data%20Preprocessing%20Practice)
+## [1. 데이터 전처리 - 고속도로 CCTV 교통 영상 파일](https://github.com/timmyeos/SeSAC/tree/main/1.%20Data%20Preprocessing%20-%20highway)
 
 > 파일명을 통해 정보를 추출하고, 간단한 시각화 진행
 
@@ -38,4 +39,23 @@
 
 <br>
 
-## 사람인 크롤링
+## [2. 사람인 크롤링](https://github.com/timmyeos/SeSAC/tree/main/2.%20saramin_crawling)
+
+> 검색어를 입력받아서, 검색된 채용정보 수집
+
+- Selenium 이용
+- 실행 화면
+  ![스크린샷 2023-10-13 094709](https://github.com/sessac-gcpAI-1st/saramin-repo-2/assets/97524127/0d3eff54-26de-46fa-8596-fe47b903f41a)
+- CSV 파일에 저장된 정보 <br>
+  : 공고명, 회사명, 등록일, 지원마감일, 근무지역, 경력, 학력, 근무형태, 급여, 직무분야, 링크
+  ![스크린샷 2023-10-13 100949](https://github.com/sessac-gcpAI-1st/saramin-repo-1/assets/97524127/5cfb97f3-4f15-4b95-84e3-94e4626d7c2d)
+
+<br>
+
+
+## [3. 데이콘 서울시 따릉이 대여량 예측](https://github.com/timmyeos/SeSAC/tree/main/3.%20Seoul_bike_ttareungi)
+
+> 따릉이(서울 공유 자전거) 수요 예측
+> 
+- 데이터: 데이콘의 [서울시 따릉이 대여량 예측 경진대회](https://dacon.io/competitions/open/235576/overview/description)
+  ![dacon](https://github.com/timmyeos/SeSAC/assets/97524127/fa151047-3c5a-426a-a2ed-d2650dd46e2e)
