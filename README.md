@@ -15,7 +15,7 @@
 
 - 데이터: AI Hub의 [교통문제 해결을 위한 CCTV 교통 영상(고속도로)](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=164)
   
-![todo_image](https://github.com/timmyeos/SeSAC/assets/97524127/a0107a5a-7a9c-4b38-9323-df17624f271b)
+[![todo_image](https://github.com/timmyeos/SeSAC/assets/97524127/a0107a5a-7a9c-4b38-9323-df17624f271b)](https://github.com/timmyeos/SeSAC/assets/97524127/a0107a5a-7a9c-4b38-9323-df17624f271b)
 
 
 
@@ -58,4 +58,4 @@
 > 따릉이(서울 공유 자전거) 수요 예측
 > 
 - 데이터: 데이콘의 [서울시 따릉이 대여량 예측 경진대회](https://dacon.io/competitions/open/235576/overview/description)
-  ![dacon](https://github.com/timmyeos/SeSAC/assets/97524127/fa151047-3c5a-426a-a2ed-d2650dd46e2e)
+[![dacon](https://github.com/timmyeos/SeSAC/assets/97524127/fa151047-3c5a-426a-a2ed-d2650dd46e2e)](https://github.com/timmyeos/SeSAC/assets/97524127/fa151047-3c5a-426a-a2ed-d2650dd46e2e)
