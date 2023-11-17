@@ -1,7 +1,7 @@
 # SeSAC
 새싹 GoogleCloud 기반 인공지능 개발자 과정
 
-공부한 내용
+공부한 내용 목차
 - [SeSAC](#sesac)
   - [1. 데이터 전처리 - 고속도로 CCTV 교통 영상 파일](#1-데이터-전처리---고속도로-cctv-교통-영상-파일)
   - [2. 사람인 크롤링](#2-사람인-크롤링)
@@ -79,5 +79,6 @@
   - PyCaret 으로 모델 비교
   - Hyperopt로 Hyperparameter tuning (**XGBRegressor**)
 - Best RMSE: 36.948
+  ![RMSE_image](https://github.com/timmyeos/SeSAC/assets/97524127/863b5031-ebec-4727-ac85-99d4efc0e0f9)
 
 
