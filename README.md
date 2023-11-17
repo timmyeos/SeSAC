@@ -59,3 +59,25 @@
 > 
 - 데이터: 데이콘의 [서울시 따릉이 대여량 예측 경진대회](https://dacon.io/competitions/open/235576/overview/description)
 [![dacon](https://github.com/timmyeos/SeSAC/assets/97524127/fa151047-3c5a-426a-a2ed-d2650dd46e2e)](https://dacon.io/competitions/open/235576/overview/description)
+
+- 전처리
+  - 결측치 처리
+  - 불쾌지수 열 추가
+- EDA
+  - heatmap
+  - 각 column의 분포
+  - 강수 여부, 시간별, 미세먼지 수준별 따릉이 대여 수
+  - 등등
+- 평가 지표: RMSE
+- MODEL
+  - LinearRegression
+  - Ridge, Lasso, ElasticNet
+  - RandomForestRegressor, GradientBoostingRegressor, XGBRegressor, LGBMRegressor
+  - **Hyperparameter tuning** (XGBRegressor)
+  - Ensemble - VotingRegressor
+  - Ensemble - StackingRegressor
+  - PyCaret 으로 모델 비교
+  - Hyperopt로 Hyperparameter tuning (**XGBRegressor**)
+- Best RMSE: 36.948
+
+
