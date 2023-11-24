@@ -15,17 +15,17 @@
 
 - 데이터: AI Hub의 [교통문제 해결을 위한 CCTV 교통 영상(고속도로)](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=164)
   
-[![todo_image](https://github.com/timmyeos/SeSAC/assets/97524127/a0107a5a-7a9c-4b38-9323-df17624f271b)](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=164)
+[![aihub_image](https://github.com/timmyeos/SeSAC/assets/97524127/a7729667-26f6-4c88-875c-37112147298c)](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=164)
 
 
 
 - 데이터 파일명
   
-    <img src="https://github.com/timmyeos/SeSAC/assets/97524127/6ddccf54-6a63-4355-ab42-105bd199c351" width="630" height="190" />
+    <img src="https://github.com/timmyeos/SeSAC/assets/97524127/0a222bac-821b-487b-ae10-537d0c26262f" width="630" height="190" />
 
-- 만들어진 CSV 파일 결과
+- 만들어진 highway.csv 파일
 
-    <img src="https://github.com/timmyeos/SeSAC/assets/97524127/48502bae-4905-4527-a92f-61f77dfa3041" width="630" height="150" />
+    <img src="https://github.com/timmyeos/SeSAC/assets/97524127/619031a5-adf3-47c2-98d2-ce6ed659afdb" width="630" height="130" />
     
     총 데이터 개수: 117
   
@@ -35,7 +35,7 @@
     |  시간대 분포  | 날씨 분포  |
     |---|---|
     |dawn (06:00 ~ 08:59) <br> daytime (09:00 ~ 17:00) <br> nighttime (17:01 ~ 06:00)   | sunny <br> rainy <br> snow  |
-    | <img src="https://github.com/timmyeos/SeSAC/assets/97524127/b4dc48c4-f61b-4c65-bfa1-f56a078cbf48" width="400" height="300" />  | <img src="https://github.com/timmyeos/SeSAC/assets/97524127/2f4396c0-17e3-4cba-af32-dd24e1451af8" width="400" height="300" />  |
+    | <img src="https://github.com/timmyeos/SeSAC/assets/97524127/680a3a3d-6592-491f-8384-e44a7950f6bd" width="350" height="250" />  | <img src="https://github.com/timmyeos/SeSAC/assets/97524127/1b777a10-debb-445f-bf65-95196257f151" width="350" height="250" />  |
 
 <br>
 
@@ -58,7 +58,7 @@
 > 따릉이(서울 공유 자전거) 수요 예측
 > 
 - 데이터: 데이콘의 [서울시 따릉이 대여량 예측 경진대회](https://dacon.io/competitions/open/235576/overview/description)
-[![dacon](https://github.com/timmyeos/SeSAC/assets/97524127/fa151047-3c5a-426a-a2ed-d2650dd46e2e)](https://dacon.io/competitions/open/235576/overview/description)
+[![dacon](https://github.com/timmyeos/SeSAC/assets/97524127/c1bf091d-e859-4eed-81a1-4bb5808bb699)](https://dacon.io/competitions/open/235576/overview/description)
 
 - 전처리
   - 결측치 처리
@@ -79,6 +79,5 @@
   - PyCaret 으로 모델 비교
   - Hyperopt로 Hyperparameter tuning (**XGBRegressor**)
 - Best RMSE: 36.948
-  ![RMSE_image](https://github.com/timmyeos/SeSAC/assets/97524127/863b5031-ebec-4727-ac85-99d4efc0e0f9)
-
+  ![RMSE_image](https://github.com/timmyeos/SeSAC/assets/97524127/3bb34846-fe4d-4458-ba19-7f1ac9d8f762)
 
