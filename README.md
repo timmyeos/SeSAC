@@ -1,11 +1,12 @@
 # SeSAC
 새싹 GoogleCloud 기반 인공지능 개발자 과정
 
-공부한 내용 목차
+**[공부한 내용 목차]**
 - [SeSAC](#sesac)
   - [1. 데이터 전처리 - 고속도로 CCTV 교통 영상 파일](#1-데이터-전처리---고속도로-cctv-교통-영상-파일)
   - [2. 사람인 크롤링](#2-사람인-크롤링)
   - [3. 데이콘 서울시 따릉이 대여량 예측](#3-데이콘-서울시-따릉이-대여량-예측)
+  - [4. 데이터 분석 - 반려동물 키우기 좋은 구는 어디일까?](#4-데이터-분석---반려동물-키우기-좋은-구는-어디일까)
 
 <br>
 
@@ -80,4 +81,18 @@
   - Hyperopt로 Hyperparameter tuning (**XGBRegressor**)
 - Best RMSE: 36.948
   ![RMSE_image](https://github.com/timmyeos/SeSAC/assets/97524127/3bb34846-fe4d-4458-ba19-7f1ac9d8f762)
+
+<br>
+
+## [4. 데이터 분석 - 반려동물 키우기 좋은 구는 어디일까?](https://github.com/timmyeos/SeSAC/tree/main/4.%20data_analysis_happy_pets)
+
+> 반려동물을 키우는 사람이 많아졌다. 
+> 서울에서 반려동물 키우기 좋은 구는 어디일까?
+
+팀프로젝트 (4명)
+
+
+|남경수|신은주|신재은|최지민|
+|:-:|:-:|:-:|:-:|
+|<img src='https://avatars.githubusercontent.com/u/147117427?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/147118232?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/107024182?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/97524127?v=4' height=80 width=80px></img>|[Github](https://github.com/namchaos4809)|[Github](https://github.com/ppppomi)|[Github](https://github.com/Shinzaen)|[Github](https://github.com/timmyeos)|
 
