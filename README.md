@@ -88,11 +88,26 @@
 
 > 반려동물을 키우는 사람이 많아졌다. 
 > 서울에서 반려동물 키우기 좋은 구는 어디일까?
+>
+> ➩ 반려동물 인프라가 좋은 곳은 강남구, 중구, 송파구 순이다!
 
-팀프로젝트 (4명)
+- 팀프로젝트 (4명)
 
+  |남경수|신은주|신재은|최지민|
+  |:-:|:-:|:-:|:-:|
+  |<img src='https://avatars.githubusercontent.com/u/147117427?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/147118232?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/107024182?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/97524127?v=4' height=80 width=80px></img>|
+  |[Github](https://github.com/namchaos4809)|[Github](https://github.com/ppppomi)|[Github](https://github.com/Shinzaen)|[Github](https://github.com/timmyeos)|
 
-|남경수|신은주|신재은|최지민|
-|:-:|:-:|:-:|:-:|
-|<img src='https://avatars.githubusercontent.com/u/147117427?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/147118232?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/107024182?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/97524127?v=4' height=80 width=80px></img>|[Github](https://github.com/namchaos4809)|[Github](https://github.com/ppppomi)|[Github](https://github.com/Shinzaen)|[Github](https://github.com/timmyeos)|
+- 역할: 데이터 전처리, 데이터 시각화
 
+- 반려동물 100마리당 반려동물 시설 개수
+  ![image](https://github.com/timmyeos/SeSAC/assets/97524127/8f5bc740-b11c-4d5b-a279-2aa30d0f48d3)
+  ![map_image](https://github.com/timmyeos/SeSAC/assets/97524127/992ac470-66ca-42f2-95c6-2f3990b84a44)
+
+- 시도한 것
+  : interactive 지도 시각화 (ipynb 마지막 부분) <br>
+  왼쪽 버튼 클릭하면 지도에 표시됨
+  ![interactive_image](https://github.com/timmyeos/SeSAC/assets/97524127/5d295bbd-403e-42f3-a082-e3a5ba43b24b)
+  
+<br>
+<!-- ## [5. dsffsd]() -->
